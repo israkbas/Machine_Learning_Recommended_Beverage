@@ -1,4 +1,7 @@
-Kafein, Kalori ve random verilen puanlar üzerinden bir kahve yazıldığında benzer özellikteki kahveleri öneren kod  
+Python code that recommends coffees with similar properties when a coffee is written based on caffeine, calories and random points.
+
+Kafein, Kalori ve random verilen puanlar üzerinden bir kahve yazıldığında benzer özellikteki kahveleri öneren python kodu   
+
 ![13 1](https://github.com/israkbas/Recommended_Beverage/assets/102908756/4369dd2f-3888-420c-bae3-1cffd10719e4)
 ![12 1](https://github.com/israkbas/Recommended_Beverage/assets/102908756/ab719379-081e-455e-afd4-12bc7921d8b6)
 ![11 2](https://github.com/israkbas/Recommended_Beverage/assets/102908756/92ac375f-13c7-4056-9307-a5bde441dfd5)
