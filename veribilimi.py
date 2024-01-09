@@ -7,7 +7,7 @@ from sklearn.neighbors import NearestNeighbors
 
 
 
-df = pd.read_csv("C:/Users/90544/desktop/caffeine.csv",error_bad_lines=False)
+df = pd.read_csv("C:/Users/caffeine.csv",error_bad_lines=False)
 
 # Rastgele 1-10 arası puanlar oluşturun
 np.random.seed(42)
